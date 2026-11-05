@@ -1,4 +1,4 @@
-python
+
 """
 Telegram Gemini AI Bot
 A secure Telegram bot that connects to Google Gemini AI, supports conversational memory,
